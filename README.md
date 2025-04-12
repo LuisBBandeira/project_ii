@@ -1,11 +1,4 @@
-
-
-| CURSO / ANO |  | Programação Web 23-25 |
-| :---- | ----- | :---- |
-| **Módulo** |  | **Projeto II** |
-| **Formadores**  |  | **[Jorge Alves](mailto:jorge_alves@eticalgarve.com), [Bruno Lançoni](mailto:bruno_lanconi@eticalgarve.com), [Teresa Lemos](mailto:teresa_lemos@eticalgarve.com), [João Brito](mailto:joao_brito@eticalgarve.com)** |
-
-Este documento define os requisitos e os marcos para o Projeto II, cujo objetivo é transformar o pitch desenvolvido no módulo de Pitching e Empreendedorismo numa aplicação funcional. Os grupos já foram definidos pelo tutor do curso, e os projetos foram selecionados a partir das ideias apresentadas no módulo de Pitching. A meta é converter o pitch em realidade.
+# Projeto II
 
 ## 1\. Visão Geral e Objetivos
 
